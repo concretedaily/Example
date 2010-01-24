@@ -1,0 +1,6 @@
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\bin\x86\Release\Mini Adventure.exe
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\bin\x86\Release\Mini Adventure.pdb
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\obj\x86\Release\Mini Adventure.exe
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Mini Adventure\Mini Adventure\obj\x86\Release\Mini Adventure.pdb

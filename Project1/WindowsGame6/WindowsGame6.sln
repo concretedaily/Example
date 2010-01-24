@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame6", "WindowsGame6\WindowsGame6.csproj", "{F503DE94-0B48-487C-981E-7BE2F35521A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F503DE94-0B48-487C-981E-7BE2F35521A3}.Debug|x86.ActiveCfg = Debug|x86
+		{F503DE94-0B48-487C-981E-7BE2F35521A3}.Debug|x86.Build.0 = Debug|x86
+		{F503DE94-0B48-487C-981E-7BE2F35521A3}.Release|x86.ActiveCfg = Release|x86
+		{F503DE94-0B48-487C-981E-7BE2F35521A3}.Release|x86.Build.0 = Release|x86
+		{86E2C5A9-AC8E-465B-AE1C-B2A583DFEF06}.Debug|x86.ActiveCfg = Debug|x86
+		{86E2C5A9-AC8E-465B-AE1C-B2A583DFEF06}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

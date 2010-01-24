@@ -1,0 +1,6 @@
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\bin\x86\Release\Lap Race.exe
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\bin\x86\Release\Lap Race.pdb
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\obj\x86\Release\Lap Race.exe
+C:\Documents and Settings\GIR\My Documents\Visual Studio 2008\Projects\Project1\Chapter Three\Chapter Three\obj\x86\Release\Lap Race.pdb
