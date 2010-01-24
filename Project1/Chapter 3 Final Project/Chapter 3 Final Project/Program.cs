@@ -20,6 +20,7 @@ namespace CHAP_3_END_PROJ
             Console.WriteLine("1 Elmer Fudd");
             Console.WriteLine("2 Monty Python");
             Console.WriteLine();
+	    Console.WriteLine();
             Console.Write("-> "); 
            
             gameOption = Console.ReadLine();
