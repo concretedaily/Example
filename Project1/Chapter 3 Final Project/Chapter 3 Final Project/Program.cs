@@ -35,6 +35,7 @@ namespace CHAP_3_END_PROJ
 				    Console.Write("{0} ", pigWord.Replace("r", "w"));
 				}               
 			}
+			Console.WriteLine();
 		}
 		
 		private static void GrailWin() {
@@ -42,6 +43,7 @@ namespace CHAP_3_END_PROJ
 			Console.WriteLine();
 			Console.WriteLine("You've seen way too much Monty Python or your memory is like a steel trap..good job.");
 			Console.WriteLine("Since you passed the Bridge of Death..you get the prize..check it");
+			Console.WriteLine();
 		}
 		
 		private static void GrailFail() {
@@ -68,10 +70,10 @@ namespace CHAP_3_END_PROJ
 			Console.WriteLine("What is your quest?: ");
 			quest = Console.ReadLine();
 			   
-			if (!quest.ToLower().Equals("to seek the holy grail")) {
+			if (!quest.ToLower().Contains("to seek the holy grail")) {
 				GrailFail();
 				return;
-			} else if (quest.ToLower().Equals("to seek the holy grail")) {
+			} else if (quest.ToLower().Contains("to seek the holy grail")) {
 				Console.WriteLine("What is your favorite color?: ");
 				color = Console.ReadLine();
 				if(color.ToLower().Equals("blue")) {
