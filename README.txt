@@ -1,0 +1,1 @@
+This is a simple repository to allow some collaboration with orclev while concretedaily learns the basics of programming.
