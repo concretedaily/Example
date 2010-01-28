@@ -37,6 +37,20 @@ namespace CHAP_3_END_PROJ
 			}
 		}
 		
+		private static void GrailWin() {
+			Console.WriteLine("The old man seems satisfied with your answer and chirps, \"Right, off you go\"");
+			Console.WriteLine();
+			Console.WriteLine("You've seen way too much Monty Python or your memory is like a steel trap..good job.");
+			Console.WriteLine("Since you passed the Bridge of Death..you get the prize..check it");
+		}
+		
+		private static void GrailFail() {
+			Console.WriteLine("The old man laughes as you are plucked outta the sky");
+			Console.WriteLine("by some unseen force, and tossed into a void of endless mist!!");
+			Console.WriteLine("HINT: Go watch the Holy Grail and then come back and try again");
+			Console.WriteLine();
+		}
+		
 		private static void MontyPython() {
 			string name;
 			string quest;
@@ -55,20 +69,19 @@ namespace CHAP_3_END_PROJ
 			quest = Console.ReadLine();
 			   
 			if (quest != "to seek the holy grail") {
-				Console.WriteLine("The old man laughes as you are plucked outta the sky");
-				Console.WriteLine("by some unseen force, and tossed into a void of endless mist!!");
-				Console.WriteLine("HINT: Go watch the Holy Grail and then come back and try again");
-				Console.WriteLine();
+				GrailFail();
 				return;
 			} else if (quest = "to seek the holy grail") {
 				Console.WriteLine("What is your favorite color?: ");
 				color = Console.ReadLine();
-				
+				if(color.ToLower().Equals("blue")) {
+					//TODO: Generate random value. If value > some preset kill them, else say correct.
+					GrailWin();
+				} else {
+					GrailFail();
+				}
 			} else {
-				Console.WriteLine("The old man seems satisfied with your answer and chirps, \"Right, off you go\"");
-				Console.WriteLine();
-				Console.WriteLine("You've seen way too much Monty Python or your memory is like a steel trap..good job.");
-				Console.WriteLine("Since you passed the Bridge of Death..you get the prize..check it");
+				GrailWin();
 			}
 		}
 		
