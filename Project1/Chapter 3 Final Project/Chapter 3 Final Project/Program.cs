@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 using System;
 
 namespace CHAP_3_END_PROJ
